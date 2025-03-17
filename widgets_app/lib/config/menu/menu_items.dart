@@ -44,4 +44,9 @@ var appMenuItems = <MenuItem>[
       subTitle: 'Una serie de controles de Flutter',
       link: '/ui-controls',
       icon: Icons.control_point_duplicate_outlined),
+  MenuItem(
+      title: 'Introducción a la aplicación',
+      subTitle: 'Pequeño tutorial introductorio',
+      link: '/tutorial',
+      icon: Icons.add_a_photo_outlined),
 ];
