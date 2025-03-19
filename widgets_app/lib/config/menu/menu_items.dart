@@ -49,4 +49,9 @@ var appMenuItems = <MenuItem>[
       subTitle: 'Pequeño tutorial introductorio',
       link: '/tutorial',
       icon: Icons.add_a_photo_outlined),
+  MenuItem(
+      title: 'InfiniteScroll y Pull',
+      subTitle: 'Listas infinitas y pull',
+      link: '/infinite',
+      icon: Icons.add_box_outlined),
 ];
