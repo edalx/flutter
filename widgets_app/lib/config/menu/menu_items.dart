@@ -58,5 +58,10 @@ var appMenuItems = <MenuItem>[
       title: 'InfiniteScroll y Pull',
       subTitle: 'Listas infinitas y pull',
       link: '/infinite',
-      icon: Icons.add_box_outlined)
+      icon: Icons.add_box_outlined),
+  MenuItem(
+      title: 'Cambiar tema',
+      subTitle: 'Cambiar tema de la aplicación',
+      link: '/theme-changer',
+      icon: Icons.color_lens_outlined)
 ];
